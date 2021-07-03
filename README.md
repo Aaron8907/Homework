@@ -20,6 +20,10 @@ For the HTML I made the following changes:
  * Reordered styles
  * Removed image from file
 
- Sceenshot of website:
+## Links
+* https://aaron8907.github.io/Homework01/
+* https://github.com/Aaron8907/Homework01
+ 
+Sceenshot of website:
 
 ![Webpage](./assets/images/Screenshot.png)
