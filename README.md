@@ -22,4 +22,4 @@ For the HTML I made the following changes:
 
  Sceenshot of website:
 
- !(./assets/Screenshot Website.png)
+![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/Screenshot.png)
